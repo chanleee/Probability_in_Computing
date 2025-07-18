@@ -1,2 +1,2 @@
 # Probability_in_Computing
-These are the problems I solved while taking the Probability in Computing course.
+This repository contains the exercises and solutions I completed for the Probability in Computing course.
